@@ -1,8 +1,8 @@
 # Lab 5 – UI Frameworks
 
 ## Group Members
-- Alice Smith
-- Bob Johnson
+- Macdonald Hadobe
+- Natasha Phiri
 
 ## Summary
 
@@ -22,7 +22,7 @@
 - Includes toggle button to show/hide message.
 
 ## CodeSandbox Link
-[React Demo CodeSandbox](https://codesandbox.io/p/sandbox/react-new?file=%2Fsrc%2FApp.js)
+[React Demo CodeSandbox](https://codesandbox.io/p/devbox/musing-pine-gmgqnw?workspaceId=ws_C1YMcZNMiDnM3TYM1x2U7A)
 
 ## Deliverables
 - GitHub repo with 3 folders: `bootstrap-demo/`, `tailwind-demo/`, `react-demo/`
